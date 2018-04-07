@@ -1,5 +1,5 @@
 {
-  "name": "§6§lCommon Crate",
+  "name": "§3§lCommon Crate",
   "identifier": "common.crate",
   "content": [
     {"rouletteMessage":"{LIGHT_PURPLE}Money Pouch{DARK_GRAY}: {GRAY}Tier 1", "commands":["moneypouch {player} 1"], "message":"{GRAY}You won a {LIGHT_PURPLE}Money Pouch{DARK_GRAY}: {GRAY}Tier 1"},
